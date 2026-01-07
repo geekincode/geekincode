@@ -1,9 +1,5 @@
 # 👋 Hi, I'm geekincode
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=geekincode&theme=radical&hide_border=true)
-
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekincode&theme=github_dark" />
 </p>
