@@ -1,18 +1,16 @@
-<div id="title" align=center>
+# 👋 Hi, I'm geekincode
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekincode&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=geekincode&theme=radical&hide_border=true)
 
-![geekincode](https://github-readme-stats.vercel.app/api?username=geekincode&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geekincode&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekincode&theme=github_dark" />
+</p>
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geekincode&show_icons=true&theme=radical)
-
-![访客数](https://komarev.com/ghpvc/?username=geekincode&color=blue)
-
-![活动图](https://github-readme-activity-graph.vercel.app/graph?username=geekincode&theme=github)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geekincode&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geekincode&theme=github_dark" />
 
 ![](https://img.shields.io/badge/爱好-足球-red)
 
