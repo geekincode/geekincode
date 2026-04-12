@@ -10,13 +10,13 @@
 
 ![](https://img.shields.io/badge/爱好-足球-red)
 
-</div>
+<!-- </div>
 
 <div id="title" align=center>
 
 ![头像](image/KAKA.png)
 
-</div>
+</div> -->
 
 <!-- 放置贪吃蛇游戏 -->
 <picture>
